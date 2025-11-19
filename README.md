@@ -110,13 +110,6 @@ Contains the scripts (`qa_genearte_*.py`, `visualize_qa_results.py`, etc.) used 
 
 ## Citation
 Please cite the paper when reusing the dataset or code:
-```
-@inproceedings{bbox_docvqa_2026,
-  title     = {BBox-DocVQA: A Large-Scale Bounding-Box-Grounded Dataset for Enhancing Reasoning in Document Visual Question Answering},
-  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year      = {2026},
-  note      = {See docs/BBox_DocVQA_paper.pdf for the latest version.}
-}
-```
+> paper is under reviewing...
 
 For questions or pull requests, feel free to open an issue once the repository goes public. Enjoy building spatially grounded DocVQA systems!
